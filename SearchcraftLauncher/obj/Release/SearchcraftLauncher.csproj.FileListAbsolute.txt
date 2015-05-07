@@ -1,0 +1,47 @@
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe.config
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Release\SearchcraftLauncher.pdb
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csprojResolveAssemblyReference.cache
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.Properties.Resources.resources
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csproj.GenerateResource.Cache
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.exe
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.pdb
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Release\General DiagramLib.dll
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Release\General DiagramLib.pdb
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.UserInterface.resources
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe.config
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.pdb
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\bin\Release\SearchcraftLauncher.pdb
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.UserInterface.resources
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.Properties.Resources.resources
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csproj.GenerateResource.Cache
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe.config
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.pdb
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.pdb
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.UserInterface.resources
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.Properties.Resources.resources
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csproj.GenerateResource.Cache
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe.config
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.pdb
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.pdb
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.UserInterface.resources
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.Properties.Resources.resources
+C:\Users\Даниил\Documents\Бэкапы\24 Октября\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.csproj.GenerateResource.Cache
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\SearchcraftLauncher\bin\Release\SearchcraftLauncher.exe.config
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.exe
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\SearchcraftLauncher\obj\Release\SearchcraftLauncher.pdb

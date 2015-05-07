@@ -1,0 +1,9 @@
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Debug\SearchcraftLauncher.exe.config
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Debug\SearchcraftLauncher.exe
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\bin\Debug\SearchcraftLauncher.pdb
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Debug\SearchcraftLauncher.csprojResolveAssemblyReference.cache
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Debug\SearchcraftLauncher.Form1.resources
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Debug\SearchcraftLauncher.Properties.Resources.resources
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Debug\SearchcraftLauncher.csproj.GenerateResource.Cache
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Debug\SearchcraftLauncher.exe
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\SearchcraftLauncher\obj\Debug\SearchcraftLauncher.pdb

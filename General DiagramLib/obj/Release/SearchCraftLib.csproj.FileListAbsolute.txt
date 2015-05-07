@@ -1,0 +1,5 @@
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\General DiagramLib\obj\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\General DiagramLib\obj\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\General DiagramLib\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\General DiagramLib\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\General DiagramLib\obj\Release\SearchCraftLib.csprojResolveAssemblyReference.cache

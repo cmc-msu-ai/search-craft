@@ -1,0 +1,12 @@
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DemoForm.resources
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\Demo.csproj.GenerateResource.Cache
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.EndScreen.resources

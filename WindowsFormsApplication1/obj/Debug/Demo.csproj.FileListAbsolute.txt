@@ -1,0 +1,13 @@
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Debug\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\bin\Debug\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DemoForm.resources
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EndScreen.resources
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Даниил\Documents\Программы\Search-Craft-new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StartForm.resources

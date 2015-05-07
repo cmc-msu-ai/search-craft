@@ -1,0 +1,15 @@
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\General DiagramLib\bin\Release\General DiagramLib.dll
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\General DiagramLib\bin\Release\General DiagramLib.pdb
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\General DiagramLib\obj\Release\General DiagramLib.dll
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\General DiagramLib\obj\Release\General DiagramLib.pdb
+C:\Users\ТотКтоНада\Documents\GitHub\TotKtoNada\General Diagram\General DiagramLib\obj\Release\General DiagramLib.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\General DiagramLib\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\General DiagramLib\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\General DiagramLib\obj\Release\General DiagramLib.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\General DiagramLib\obj\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\Программы\Курсовая\General Diagram\General DiagramLib\obj\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\General DiagramLib\bin\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\General DiagramLib\bin\Release\General DiagramLib.pdb
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\General DiagramLib\obj\Release\General DiagramLib.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\General DiagramLib\obj\Release\General DiagramLib.dll
+C:\Users\Даниил\Documents\GitHub\Search-Craft-new\General DiagramLib\obj\Release\General DiagramLib.pdb
